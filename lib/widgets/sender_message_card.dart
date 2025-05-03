@@ -11,6 +11,7 @@ class SenderMessageCard extends StatelessWidget {
     required this.date,
   });
 
+
   @override
   Widget build(BuildContext context) {
     return Align(
