@@ -24,7 +24,9 @@ class MobileScreenLayout extends StatelessWidget {
           centerTitle: false,
           actions: [
             IconButton(
-              onPressed: () {},
+              onPressed: () {
+                
+              },
               icon: const Icon(Icons.photo_camera),
             ),
             IconButton(
