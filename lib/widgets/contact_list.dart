@@ -7,6 +7,7 @@ import 'package:whatsapp_ui/screens/mobile_chat_screen.dart';
 class ContactList extends StatelessWidget {
   const ContactList({super.key});
 
+
   @override
   Widget build(BuildContext context) {
     return Padding(
