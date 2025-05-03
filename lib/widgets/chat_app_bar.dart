@@ -26,6 +26,7 @@ class ChatAppBar extends StatelessWidget {
               SizedBox(
                 width: MediaQuery.of(context).size.width * 0.001,
               ),
+              
               Text(
                 info[0]["name"].toString(),
                 style: const TextStyle(
