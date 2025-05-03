@@ -4,6 +4,7 @@ import 'package:whatsapp_ui/colors.dart';
 class WebSearchBar extends StatelessWidget {
   const WebSearchBar({super.key});
 
+
   @override
   Widget build(BuildContext context) {
     return Container(
