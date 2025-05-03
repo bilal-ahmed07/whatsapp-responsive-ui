@@ -22,7 +22,9 @@ class MobileChatScreen extends StatelessWidget {
         centerTitle: false,
         actions: [
           IconButton(
-            onPressed: () {},
+            onPressed: () {
+              
+            },
             icon: const Icon(Icons.call),
           ),
           IconButton(
