@@ -6,6 +6,7 @@ import 'package:whatsapp_ui/widgets/sender_message_card.dart';
 class ChatList extends StatelessWidget {
   const ChatList({super.key});
 
+
   @override
   Widget build(BuildContext context) {
     return ListView.builder(
